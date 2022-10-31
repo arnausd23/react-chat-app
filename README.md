@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+## Notes
+
+### Create Auth method
+![image](https://user-images.githubusercontent.com/32362841/199065680-664666d8-12ea-44da-8b8b-0374e2d6cccd.png)
+### Create Firestore Database
+
+### Create Storage
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
