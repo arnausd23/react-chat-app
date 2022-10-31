@@ -1,7 +1,4 @@
-# Example final result
-![image](https://user-images.githubusercontent.com/32362841/198895823-57e785ba-1982-4532-9986-7f7f44902497.png)
-
-## Getting Started with Create React App
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
